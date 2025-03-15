@@ -1,3 +1,4 @@
 # wine-repo
 Its machine learning project ,it is used to predict wine quality
-ohh yes
+
+its project used for industry purpoes.
